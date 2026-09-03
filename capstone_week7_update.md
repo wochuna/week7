@@ -49,3 +49,4 @@ A major challenge in HSE data visualization is the inherent skew between inciden
 1. **Predictive Risk Scoring:** Integrate a machine learning classification model to assign a dynamic predictive risk score to active work permits based on weather, shift fatigue, and historical incident frequency.
 2. **Corrective Action Tracking:** Add an interactive module allowing safety managers to log and track closed-loop corrective actions directly from the dashboard view.
 3. **Automated Executive PDF Export:** Extend the reporting module to allow one-click PDF safety alert generation based on filtered dashboard findings.
+

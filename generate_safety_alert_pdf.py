@@ -223,3 +223,4 @@ def build_pdf(filename: str = OUTPUT_FILENAME):
 
 if __name__ == "__main__":
     build_pdf()
+
